@@ -33,6 +33,10 @@ In this project, I will explore Active Directory and its key features that are e
 4. Enter the user’s details (e.g., first name, last name, username), then click **Next** and set a password for the account.  
 5. Under the **General** tab, you can add a description for the user, such as **IT Staff**, to provide additional context.
 
+
+![Image Alt](  https://github.com/idris-tech85/Active-Directory-/blob/main/image%204%20.png?raw=true )
+ 
+
    
 
    
