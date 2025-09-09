@@ -40,6 +40,37 @@ C. Click on the **IPv4 address hyperlink** to open the network settings and conf
 
 
 ![Image Alt](  https://github.com/idris-tech85/Active-Directory-/blob/main/image%204%20.png?raw=true )
+
+
+
+## Creating Groups
+
+1. Navigate to the location where you want to create the group, such as the **Users** folder under your domain or within an **Organizational Unit (OU)**.  
+2. Right-click the desired location and select **Group**.  
+3. Enter a **group name** for the new group.  
+4. Add existing users to the group as needed, and configure settings such as **permissions**, **security policies**, and other options.  
+5. For example, in an IT-specific OU, you can assign a **Group Policy Object (GPO)** to the group to automatically deploy IT-related software or configurations.
+   
+![Image Alt](
+
+
+
+
+
+
+
+
+
+
+
+## Creating Organisational Units
+
+
+
+
+
+
+## Creating Group Policy Objects
  
 
    
