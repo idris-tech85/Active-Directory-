@@ -13,4 +13,4 @@ In this project, I will explore Active Directory and its key features that are e
 2. Select **Active Directory Domain Services**, click **Add Features**, and continue through the wizard until you reach the **Install** option.  
 3. Before leaving, select **“Promote this server to a Domain Controller”**. On the new page, choose **“Add a new forest”** and enter your root domain name (e.g., `idris.com`).  
 4. Create a password, then keep clicking **Next** until you can start the installation. The server will restart automatically when it’s done.
-5.![Description of image](1 image/your-image.png)
+5.![Description of image](1image/your-image.png)
