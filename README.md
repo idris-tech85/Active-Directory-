@@ -42,7 +42,6 @@ C. Click on the **IPv4 address hyperlink** to open the network settings and conf
 ![Image Alt](  https://github.com/idris-tech85/Active-Directory-/blob/main/image%204%20.png?raw=true )
 
 
-
 ## Creating Groups
 
 1. Navigate to the location where you want to create the group, such as the **Users** folder under your domain or within an **Organizational Unit (OU)**.  
@@ -55,15 +54,13 @@ C. Click on the **IPv4 address hyperlink** to open the network settings and conf
 
 ![Image Alt](https://github.com/idris-tech85/Active-Directory-/blob/main/image%206.png?raw=true)    
 
-
-
-
 ## Creating Organisational Units
 
-
-
-
-
+1. Once Active Directory is set up on your server, search for **Active Directory Users and Computers** in Windows.  
+2. Locate your **domain name** in the left-hand panel, right-click it, and select **New > Organizational Unit**.  
+3. Give your OU a name, for example, **Departments**.  
+4. You can create **sub-OUs** under this parent OU for different teams or departments using the same process, such as an **IT** OU.  
+5. Within each department OU, you can manage objects like **users**, **computers**, **printers**, and more by following the same steps.
 
 ## Creating Group Policy Objects
  
