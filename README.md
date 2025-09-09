@@ -63,6 +63,12 @@ C. Click on the **IPv4 address hyperlink** to open the network settings and conf
 5. Within each department OU, you can manage objects like **users**, **computers**, **printers**, and more by following the same steps.
 
 ## Creating Group Policy Objects
+1. On the server machine, open **Settings** and go to **Administrative Tools > Group Policy Management**.  
+2. Under your domain, navigate to **Group Policy Objects**.  
+3. For testing, create a folder on a drive of the server machine (for example, on the C: drive).  
+4. Right-click the folder, select **Properties > Sharing > Advanced Sharing**.  
+5. From here, you can share the folder and configure **permissions** as needed.
+   ![Image Alt](
  
 
    
