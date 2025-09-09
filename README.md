@@ -16,4 +16,5 @@ In this project, I will explore Active Directory and its key features that are e
    ![Image Alt]( https://raw.githubusercontent.com/idris-tech85/Active-Directory-/f8d4769f2667c36c01adecdbf041ed1ed6193bce/1%20image.png)
 
    ## Configure network settings for the server
- 1) In the Server Manager, navigate to Local Server on the left-hand side. Locate the IPv4 address listed in the server properties, and click on the hyperlink to view or configure the network settings
+ 1) In the Server Manager, navigate to Local Server on the left-hand side. Locate the IPv4 address listed in the server properties, and click on the hyperlink to view or configure the network settings.
+    ![Image Alt]( https://github.com/idris-tech85/Active-Directory-/blob/main/2%20image.png?raw=true)
