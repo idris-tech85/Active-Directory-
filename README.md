@@ -21,7 +21,7 @@ A. In **Server Manager**, navigate to **Local Server** on the left-hand side.
 B. Locate the **IPv4 address** listed in the server properties.  
 C. Click on the **IPv4 address hyperlink** to open the network settings and configure the server's network properties.
 
-    ![Image Alt]( https://github.com/idris-tech85/Active-Directory-/blob/main/2%20image.png?raw=true)
+   ![Image Alt]( https://github.com/idris-tech85/Active-Directory-/blob/main/2%20image.png?raw=true)
 
    1. Select the network adapter you want to configure and open its **Properties**.  
 2. In the list of items, locate and select **Internet Protocol Version 4 (TCP/IPv4)**, then click **Properties**.  
