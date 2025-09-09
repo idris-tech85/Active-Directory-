@@ -17,13 +17,16 @@ In this project, I will explore Active Directory and its key features that are e
    ![Image Alt]( https://raw.githubusercontent.com/idris-tech85/Active-Directory-/f8d4769f2667c36c01adecdbf041ed1ed6193bce/1%20image.png)
 
    ## Configure network settings for the server
-1. In **Server Manager**, navigate to **Local Server** on the left-hand side.  
-2. Locate the **IPv4 address** listed in the server properties.  
-3. Click on the **IPv4 address hyperlink** to open the network settings and configure the server's network properties.
+A. In **Server Manager**, navigate to **Local Server** on the left-hand side.  
+B. Locate the **IPv4 address** listed in the server properties.  
+C. Click on the **IPv4 address hyperlink** to open the network settings and configure the server's network properties.
 
     ![Image Alt]( https://github.com/idris-tech85/Active-Directory-/blob/main/2%20image.png?raw=true)
 
-    2)   Next, select the network adapter you want to configure and open its Properties. In the list of items, find and select Internet Protocol Version 4 (TCP/IPv4), then   click Properties. This will allow you to manually set the IP address, Subnet Mask, and Default Gateway. You can use the server’s existing IP address, which can be checked by running ipconfig in the Command Prompt .
+   1. Select the network adapter you want to configure and open its **Properties**.  
+2. In the list of items, locate and select **Internet Protocol Version 4 (TCP/IPv4)**, then click **Properties**.  
+3. In the IPv4 Properties window, manually enter the **IP address**, **Subnet Mask**, and **Default Gateway**.  
+4. You can use the server’s current IP address, which can be found by running `ipconfig` in the Command Prompt.
        
    ![Image Alt](https://github.com/idris-tech85/Active-Directory-/blob/main/image%203.png?raw=true )
    
