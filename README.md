@@ -17,4 +17,5 @@ In this project, I will explore Active Directory and its key features that are e
 
    ## Configure network settings for the server
  1) In the Server Manager, navigate to Local Server on the left-hand side. Locate the IPv4 address listed in the server properties, and click on the hyperlink to view orconfigure the network settings.
+
     ![Image Alt]( https://github.com/idris-tech85/Active-Directory-/blob/main/2%20image.png?raw=true)
