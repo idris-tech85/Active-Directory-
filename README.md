@@ -25,5 +25,16 @@ In this project, I will explore Active Directory and its key features that are e
        
    ![Image Alt](https://github.com/idris-tech85/Active-Directory-/blob/main/image%203.png?raw=true )
    
+
+## Creating a user
+1. Open **Active Directory Users and Computers** using the Windows search.  
+2. In the left-hand panel, locate your **domain name** and expand it.  
+3. Right-click on the **Users** folder, then select **New > User**.  
+4. Enter the user’s details (e.g., first name, last name, username), then click **Next** and set a password for the account.  
+5. Under the **General** tab, you can add a description for the user, such as **IT Staff**, to provide additional context.
+
+   
+
+   
   
        
