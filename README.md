@@ -53,14 +53,7 @@ C. Click on the **IPv4 address hyperlink** to open the network settings and conf
    
 ![Image Alt](https://github.com/idris-tech85/Active-Directory-/blob/main/image%205%20.png?raw=true)
 
-![Image Alt](
-
-
-
-
-
-
-
+![Image Alt](https://github.com/idris-tech85/Active-Directory-/blob/main/image%206.png?raw=true)    
 
 
 
