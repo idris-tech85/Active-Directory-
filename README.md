@@ -51,6 +51,8 @@ C. Click on the **IPv4 address hyperlink** to open the network settings and conf
 4. Add existing users to the group as needed, and configure settings such as **permissions**, **security policies**, and other options.  
 5. For example, in an IT-specific OU, you can assign a **Group Policy Object (GPO)** to the group to automatically deploy IT-related software or configurations.
    
+![Image Alt](https://github.com/idris-tech85/Active-Directory-/blob/main/image%205%20.png?raw=true)
+
 ![Image Alt](
 
 
