@@ -68,12 +68,13 @@ C. Click on the **IPv4 address hyperlink** to open the network settings and conf
 3. For testing, create a folder on a drive of the server machine (for example, on the C: drive).  
 4. Right-click the folder, select **Properties > Sharing > Advanced Sharing**.  
 5. From here, you can share the folder and configure **permissions** as needed.
+   
    ![Image Alt](https://github.com/idris-tech85/Active-Directory-/blob/main/image%207.png?raw=true)
    
-    Open **Group Policy Management**, navigate to **Group Policy Objects** under your domain, right-click, and select **New**. Name it, e.g., **Mapped Drive for HR**.  
- Right-click the new GPO and select **Edit**. Under **User Configuration > Preferences > Windows Settings**, open **Drive Maps**.  
- Right-click in the empty space, select **New > Mapped Drive**, set it to **Create**, enter the shared folder path, assign a drive letter, and click **Apply**.  
- Link the GPO to an OU by locating the OU in the **Group Policy Management** console, right-clicking it, and selecting **Link an Existing GPO**.
+7. Open **Group Policy Management**, navigate to **Group Policy Objects** under your domain, right-click, and select **New**. Name it, e.g., **Mapped Drive for HR**.  
+8. Right-click the new GPO and select **Edit**. Under **User Configuration > Preferences > Windows Settings**, open **Drive Maps**.  
+9. Right-click in the empty space, select **New > Mapped Drive**, set it to **Create**, enter the shared folder path, assign a drive letter, and click **Apply**.  
+10. Link the GPO to an OU by locating the OU in the **Group Policy Management** console, right-clicking it, and selecting **Link an Existing GPO**.
  
 
    
