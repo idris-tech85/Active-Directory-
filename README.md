@@ -14,3 +14,6 @@ In this project, I will explore Active Directory and its key features that are e
 3. Before leaving, select **“Promote this server to a Domain Controller”**. On the new page, choose **“Add a new forest”** and enter your root domain name (e.g., `idris.com`).  
 4. Create a password, then keep clicking **Next** until you can start the installation. The server will restart automatically when it’s done.
    ![Image Alt]( https://raw.githubusercontent.com/idris-tech85/Active-Directory-/f8d4769f2667c36c01adecdbf041ed1ed6193bce/1%20image.png)
+
+   ## Configure network settings for the server
+   1. On the left-hand side of the screen, go to Local Server, then click on the IPv4 address hyperlink.
