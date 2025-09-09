@@ -22,6 +22,7 @@ In this project, I will explore Active Directory and its key features that are e
     ![Image Alt]( https://github.com/idris-tech85/Active-Directory-/blob/main/2%20image.png?raw=true)
 
     2)   Next, select the network adapter you want to configure and open its Properties. In the list of items, find and select Internet Protocol Version 4 (TCP/IPv4), then   click Properties. This will allow you to manually set the IP address, Subnet Mask, and Default Gateway. You can use the server’s existing IP address, which can be checked by running ipconfig in the Command Prompt .
+       
    ![Image Alt](https://github.com/idris-tech85/Active-Directory-/blob/main/image%203.png?raw=true )
    
   
